@@ -2,10 +2,10 @@
 
 This is an implementation of the DPED project for the COMP3314: Machine Learning course at HKU.
 
-Details and paper for the project can be found (http://people.ee.ethz.ch/~ihnatova/ "here").
+Details and paper for the project can be found [here](http://people.ee.ethz.ch/~ihnatova/ "Project Webpage").
 
 # Training
-To train you will first require the dped dataset from the project webpage, which should be extracted to a folder named "dataset" in the directory of this repo. You will also require a pre-trained VGG19 model which can be downloaded from ("https://drive.google.com/file/d/0BwOLOmqkYj-jMGRwaUR2UjhSNDQ/view?usp=sharing" here). The model file should be placed in a folder named "vgg_pretrained". You are all set to go now!
+To train you will first require the dped dataset from the project webpage, which should be extracted to a folder named "dataset" in the directory of this repo. You will also require a pre-trained VGG19 model which can be downloaded from [here](https://drive.google.com/file/d/0BwOLOmqkYj-jMGRwaUR2UjhSNDQ/view?usp=sharing "VGG19"). The model file should be placed in a folder named "vgg_pretrained". You are all set to go now!
 
 To train the model using this code:
 `python train.py "<phone model>"`
