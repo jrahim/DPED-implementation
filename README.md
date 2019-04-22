@@ -21,4 +21,6 @@ For testing on custom images, create the following path: "test/custom_images", t
 
 `python test.py "<phone model>" --testing_dir "test" --run_img "<directory of custom images>"`
 
-The output images will be stored in test/custom_images
+The output images will be stored in test/custom_images.
+
+The model is quite transferrable, so if your image has not been taken by any of the three available phone models, you can run the images through all three, and select the enhancement you like the best!
