@@ -1,0 +1,4 @@
+.idea/
+dataloader/
+__pycache__/
+vgg_pretrained/

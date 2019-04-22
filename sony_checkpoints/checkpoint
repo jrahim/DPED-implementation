@@ -1,0 +1,6 @@
+model_checkpoint_path: "sony"
+all_model_checkpoint_paths: "sony96000"
+all_model_checkpoint_paths: "sony97000"
+all_model_checkpoint_paths: "sony98000"
+all_model_checkpoint_paths: "sony99000"
+all_model_checkpoint_paths: "sony"
